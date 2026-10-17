@@ -1,0 +1,20 @@
+print('hello world')
+print(' I am learning  python')
+print(" hello \n I am enjoying learning python")
+print('2+2 \n 4*238')
+
+
+## answering questions for ALAB351.1##
+
+print("computer programming is a code that makes a computer do something. \n This is important because our computers need programs to fuunction, our operation sytems are programs that run on our computers")
+print(' python is a programming language that can be used to write programs. \n It is very popular because it is very simple to use in comparison to other languages and very easy to install.') 
+print("You need an interpreter to run python intsructions that our computer can execute. \n You also need a code editor, this is a program where you can write code and save it to organize in your program files.")
+
+
+## Input section for ALAB351.1##
+
+print(' Hello, World!')
+print(' Welcome to python programming')
+print('What is your name?')
+name = input()
+print (f'Hello!, {name}, glad to have you learning python!')
